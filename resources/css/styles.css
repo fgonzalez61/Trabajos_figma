@@ -1,0 +1,11 @@
+@import url('reset.css');
+@import url('colores.css');
+
+header{
+    height: 340px;
+    background-color: blue;
+}
+
+main{
+    min-height: calc();
+}
