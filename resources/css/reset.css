@@ -6,6 +6,6 @@
     list-style: none;
 }
 body{
-    min-height: calc(100dvh - 340px);
-    background-color: red;
+    min-height : 100 dvh;
+
 }
